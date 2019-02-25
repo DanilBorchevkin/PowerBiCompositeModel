@@ -10,6 +10,12 @@ PowerBI example of composite model with 2 databases as direct query connection
 6) Publish to PowerBI service (web)
 7) Done!
 
+Links to read: 
+
+https://docs.microsoft.com/ru-ru/power-bi/desktop-composite-models
+
+http://radacad.com/dynamic-row-level-security-with-manager-level-access-in-power-bi
+
 Report view: 
 ![Report view][report-view]
 
